@@ -1,0 +1,1 @@
+ Boot loader files, kernel files, and other files required for booting the system.

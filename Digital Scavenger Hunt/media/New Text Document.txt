@@ -1,0 +1,1 @@
+Mount points for removable media such as USB drives.

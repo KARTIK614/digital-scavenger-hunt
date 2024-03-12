@@ -1,0 +1,1 @@
+Essential command binaries that are needed for the system to boot and run.

@@ -1,0 +1,1 @@
+ Variable data such as logs, spool files, and temporary files.

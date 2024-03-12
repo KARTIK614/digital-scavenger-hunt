@@ -1,0 +1,1 @@
+System binaries, similar to /bin but containing binaries essential for system administration.

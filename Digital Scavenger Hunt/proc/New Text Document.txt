@@ -1,0 +1,1 @@
+Virtual file system containing information about processes and system resources.
